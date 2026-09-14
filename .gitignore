@@ -1,0 +1,26 @@
+# Xcode user-specific data
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+
+# Build products and indexes
+DerivedData/
+build/
+.build/
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+# Swift Package Manager local state
+.swiftpm/
+Package.resolved
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor backups
+*~
+*.swp
